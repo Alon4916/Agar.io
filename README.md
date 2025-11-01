@@ -1,4 +1,4 @@
-# Agar.io
+
 # Mini Agar.io 
 
 Mini Agar.io Mejorado es un juego inspirado en **Agar.io**, desarrollado en **Python** usando **Pygame**.  
