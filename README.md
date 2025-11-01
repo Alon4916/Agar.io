@@ -33,5 +33,5 @@ Controla tu célula, come comida, divide células hijas y sobrevive contra bots 
 Instala Python 3.10+ desde [python.org](https://www.python.org/).  
 Instala Pygame ejecutando:  
 pip install pygame
-Descarga el archhivo main.py de github
+Descarga el archivo main.py de github
 Disfruta del juego
